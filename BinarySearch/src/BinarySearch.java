@@ -21,6 +21,6 @@ public class BinarySearch {
 
     public static void main(String[] args) {
         int[] lst = {1,3,4,5,7,9,13,15,16,17,19};
-        binarySearch(15, lst, 1, 19);
+        binarySearch(15, lst, 0, 10);
     }
 }
